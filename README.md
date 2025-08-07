@@ -199,7 +199,8 @@ module "web-app" {
 
 <br>
 
-<img width="1132" height="177" alt="image" src="https://github.com/user-attachments/assets/e38be346-19c8-4031-bcbe-e5c6c3be5877" />
+<img width="1132" height="177" alt="image" src="https://github.com/user-attachments/assets/278202e3-debe-4e20-99ef-b5b53b0330aa" />
+
 
 
 
