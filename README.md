@@ -1,3 +1,7 @@
+![tkdev_space_200](https://github.com/user-attachments/assets/31af05be-97b5-4d4e-82ef-4f23203eb7ac)
+
+<br>
+
 # 🧪 Lab 5 - Using Modules
 
 In this lab you learn about modules and why they're important to creating dynamic and reusable code, then you will get hands-on and deploy some modularized code yourself. This code is the exact code from lab 4 with the key difference being it's structure and that it's been modularized.   
@@ -197,6 +201,26 @@ module "web-app" {
 <br>
 
 <img width="1132" height="177" alt="image" src="https://github.com/user-attachments/assets/278202e3-debe-4e20-99ef-b5b53b0330aa" />
+
+<br>
+
+***
+
+<br>
+
+# ✨ Congratulations!
+
+***
+
+You've finished this lab and have completed the following items:
+- ✅ Cloned our module repo.
+- ✅ Cloned the template repo.
+- ✅ Analyzed both repos.
+- ✅ Changed some variables on our main.tf file in our module code.
+- ✅ Created a new workspace.
+- ✅ Ran a plan and apply successfully and planned resources with our module.
+
+***
 
 
 
