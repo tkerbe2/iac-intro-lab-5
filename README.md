@@ -46,7 +46,7 @@ I recommend reading the entire modules page of the official HashiCorp documentat
 
 - Fork this repo in your own personal GitHub.
 
-<img width="1247" height="61" alt="image" src="https://github.com/user-attachments/assets/147de56b-70eb-4c92-b9f9-b0232139ba2c" />
+<img width="1225" height="49" alt="image" src="https://github.com/user-attachments/assets/2c8fd6a4-7a15-44aa-a44f-2fa0cdd20584" />
 
 <br>
 
@@ -58,7 +58,7 @@ I recommend reading the entire modules page of the official HashiCorp documentat
 
 - Fork this repo in your own personal GitHub.
 
-<img width="1237" height="54" alt="image" src="https://github.com/user-attachments/assets/8e8b6709-3bbc-4408-9d7f-dafffa1369e0" />
+<img width="1242" height="45" alt="image" src="https://github.com/user-attachments/assets/2c8afa17-9b35-479b-a891-64841c098933" />
 
 <br>
 
@@ -74,7 +74,7 @@ I recommend reading the entire modules page of the official HashiCorp documentat
 - Under the web-app subfolder, all the .tf files reside.
 - Note what files are here from the previous code and what files are missing.
 
-<img width="194" height="218" alt="image" src="https://github.com/user-attachments/assets/a26bf56c-78cc-4ca9-b961-8ce15cc5135a" />
+<img width="251" height="244" alt="image" src="https://github.com/user-attachments/assets/d6fb5bdb-95f8-4b36-8898-4bb15a323317" />
 
 <br>
 
