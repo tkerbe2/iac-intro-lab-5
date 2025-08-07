@@ -92,7 +92,7 @@ I recommend reading the entire modules page of the official HashiCorp documentat
 - Open your forked repo of [iac-intro-lab-5-template](https://github.com/tkerbe2/iac-intro-lab-5-template).
 - Notice there are only 3 files.
 
-<img width="248" height="114" alt="image" src="https://github.com/user-attachments/assets/a96161d1-c9ac-4b52-a604-cf35d346a756" />
+<img width="257" height="130" alt="image" src="https://github.com/user-attachments/assets/4f629de8-e647-41aa-b156-96afea9314ad" />
 
 - We are going to use this main.tf to provide variables to the source module from my public GitHub repo.
 - Remember earlier when I said modules can behave like a blackbox or a function. This is what I meant.
@@ -106,17 +106,12 @@ I recommend reading the entire modules page of the official HashiCorp documentat
 
 ### 6. Configure the module variables.
 - Open the main.tf file and notice it looks very similar to a terraform.tfvars. This is because I essentially pasted these into this file while adding the module block.
-
-<br>
-
-<img width="248" height="114" alt="image" src="https://github.com/user-attachments/assets/aad9ef75-dc98-4d33-ba28-0ef15017678e" />
-
-<br>
-
 - The module block has one required argument and it's source
 - The only real difference is we're making the region variable a global variable by putting it into main.tf like this.
 - I want you to provide variables that are different from what is in the default.
 - Change the env, org_name, cidr_block, and region.
+
+<br>
 
 ```
 variable "region" {
@@ -177,7 +172,7 @@ module "web-app" {
 
 <br>
 
-<img width="372" height="250" alt="image" src="https://github.com/user-attachments/assets/40475dc7-6554-43c2-83dc-ffd115168589" />
+<img width="374" height="252" alt="image" src="https://github.com/user-attachments/assets/b1e250ad-7e36-4129-90d5-ec92d24fa804" />
 
 <br>
 
@@ -185,13 +180,15 @@ module "web-app" {
 
 <br>
 
-<img width="689" height="421" alt="image" src="https://github.com/user-attachments/assets/2dafb9ba-832a-46ab-bcab-70794c1fa86f" />
+<img width="690" height="352" alt="image" src="https://github.com/user-attachments/assets/c358378f-93d3-4989-ad71-d237896c2138" />
+
+<br>
 
 - Provide your workspace variables.
 
 <br>
 
-<img width="1140" height="267" alt="image" src="https://github.com/user-attachments/assets/35d8a2bd-08a5-4075-99cd-439d848d4e7e" />
+<img width="1159" height="273" alt="image" src="https://github.com/user-attachments/assets/86bf2b81-589e-4102-beae-d9a0906b5a7e" />
 
 <br>
 
